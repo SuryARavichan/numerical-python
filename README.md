@@ -1,2 +1,2 @@
 # numerical-python
-the basics of the numerical python
+the basics of the numpy
